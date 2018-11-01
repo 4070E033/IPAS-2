@@ -58,7 +58,9 @@ ARP Spoofing是指攻擊者取得區域網路上的資料封包甚至篡改封�
 
 藉由廣播封包封包塞爆受害者網路頻寬的阻斷服務攻擊
 
-# 防護建議：在防火牆或路由器上阻擋 Network/Broadcast IP的傳送
+# 防護建議：
+
+在防火牆或路由器上阻擋 Network/Broadcast IP的傳送
 
 # 網路層 - Ping of Death
 
